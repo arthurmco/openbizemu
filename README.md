@@ -1,6 +1,6 @@
-# OpenBIZ
+# OpenBIZ-emu
 
-OpenBIZ is a business-creating simulation game, written in Python.
+OpenBIZ-emu is a business-creating simulation game, written in Python.
 
 Here, you will emulate the creation of a business. 
 You, then, will be able to grow it, interact with others in a LAN or a server, build subsidiaries an franchises, and become
